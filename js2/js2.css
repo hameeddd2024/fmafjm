@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+.contne {
+    text-align: center;
+    margin: 73px;
+}
+.sub {
+    margin-top: 10px;
+    display: flex;
+    margin-left: 578px;
+    gap: 15px;
+    text-align: center;
+}
+.inf h3 {
+    margin-top: 40px;
+}
